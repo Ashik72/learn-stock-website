@@ -16,15 +16,3 @@
 .carousel-item img {
    height: 90vh;
 }
-
-/* .carousel-item.student-feadback::before {
-   content: "";
-   display: block;
-   position: absolute;
-   top: 0;
-   left: 0;
-   right: 0;
-   bottom: 0;
-   background: #ffffff;
-   opacity: 0.2;
-} */
